@@ -1,2 +1,2 @@
 # hd-resolusi
-Repository untuk future
+Repository untuk future kedepannya
